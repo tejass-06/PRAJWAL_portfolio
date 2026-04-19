@@ -1,0 +1,70 @@
+===============================================
+PRAJWAL FATING
+Nagpur, Maharashtra, India
+Email: prajwalfating2005@gmail.com
+GitHub: github.com/prajwal-f15
+LinkedIn: linkedin.com/in/prajwal-fating-a1a39034a
+===============================================
+
+PROFESSIONAL SUMMARY
+Full Stack Developer and Data Science enthusiast with expertise in IoT, Web Development, 
+and Machine Learning. Strong foundation in building scalable, intelligent systems.
+
+===============================================
+EDUCATION
+===============================================
+Bachelor of Technology in Data Science
+Shri Chitrai Education Trust (SCET), Nagpur
+CGPA: 9.5 | Expected Graduation: 2025
+
+===============================================
+TECHNICAL SKILLS
+===============================================
+Languages: Python, JavaScript, Java, C++
+Web Development: React, Node.js, Express, MongoDB, Tailwind CSS
+Data Science: Machine Learning, TensorFlow, NumPy, Pandas
+IoT: Arduino, Raspberry Pi, Embedded Systems
+Tools: Git, Docker, Vite, VS Code
+
+===============================================
+EXPERIENCE
+===============================================
+Full Stack Developer (2024-Present)
+- Developed portfolio website with React, Three.js, and Framer Motion
+- Implemented responsive design with Tailwind CSS
+- Built RESTful APIs using Node.js and Express
+- Integrated MongoDB for data management
+
+===============================================
+PROJECTS
+===============================================
+1. Smart IoT Home System
+   - Developed IoT solution using Arduino and Raspberry Pi
+   - Created mobile app for device control
+   - Implemented real-time data monitoring
+
+2. AI-Powered Data Analysis Platform
+   - Built web interface with React
+   - Implemented machine learning models for data analysis
+   - Deployed on cloud infrastructure
+
+3. E-Commerce Platform
+   - Full stack development with React and Node.js
+   - Implemented payment gateway integration
+   - Designed responsive UI
+
+===============================================
+CERTIFICATIONS & ACHIEVEMENTS
+===============================================
+- Python Programming Master Class Certificate
+- Machine Learning Specialization
+- AWS Cloud Basics
+- Winner: Campus Tech Innovation Hackathon 2024
+- Published Research on IoT Applications
+
+===============================================
+LANGUAGES
+===============================================
+English: Fluent | Hindi: Fluent | Marathi: Native
+
+===============================================
