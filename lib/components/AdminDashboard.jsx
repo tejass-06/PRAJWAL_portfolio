@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import ProfileForm from './ProfileForm';
 import ContactForm from './ContactForm';
 import AchievementsManager from './AchievementsManager';
+import ProjectsManager from './ProjectsManager';
 import './AdminDashboard.css';
 
 export default function AdminDashboard() {
@@ -37,6 +38,12 @@ export default function AdminDashboard() {
           📧 Contact
         </button>
         <button
+          className={`nav-btn ${activeTab === 'projects' ? 'active' : ''}`}
+          onClick={() => setActiveTab('projects')}
+        >
+          📁 Projects
+        </button>
+        <button
           className={`nav-btn ${activeTab === 'achievements' ? 'active' : ''}`}
           onClick={() => setActiveTab('achievements')}
         >
@@ -47,6 +54,7 @@ export default function AdminDashboard() {
       <main className="dashboard-content">
         {activeTab === 'profile' && <ProfileForm />}
         {activeTab === 'contact' && <ContactForm />}
+        {activeTab === 'projects' && <ProjectsManager />}
         {activeTab === 'achievements' && <AchievementsManager />}
       </main>
     </div>
